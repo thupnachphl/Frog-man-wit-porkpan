@@ -1,4 +1,3 @@
-// ฟังก์ชันอัปเดตตะกร้าสินค้า
 function updateCart() {
     let cartItemsDiv = document.getElementById("cart-items");
     cartItemsDiv.innerHTML = "";
